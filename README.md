@@ -1,5 +1,5 @@
 # Introduction
-This project explores the data job market. Focused on Data Analyst jobs, it analyzes the top paying jobs, the most in-demand skills, the top paying skills and the most optimals skills to learn to thrive in the data industry.
+This project explores the data job market, focusing specifically on Data Analyst roles. It analyzes the top-paying jobs, identifies the most in-demand skills, and highlights the highest-paying skills. Furthermore, it uncovers the optimal skills to learn for thriving in the data industry.
 
 Check out the SQL queries here: [project_sql folder](/project_sql/)
 
